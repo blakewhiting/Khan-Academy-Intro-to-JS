@@ -1,5 +1,3 @@
-// Alright, for some reason my screen of the drawing won't show what I have done. I have put my work into another challenge thing to see if it works, and it does. Please keep that in mind. It only has this problem on this project. If you ask me, this is ridiculous and needs to be fixed by the developpers of this site.
-
 var book = [
     {title: "Book",
     author: "Author",
